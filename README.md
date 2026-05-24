@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="logo.svg" alt="TextWave SDK" width="120" height="120">
+  <img src="logo.svg" alt="InfiniteTx SDK" width="120" height="120">
 </p>
 
-<h1 align="center">TextWave SDK</h1>
+<h1 align="center">InfiniteTx  SDK</h1>
 
 <p align="center">
   Official JavaScript/TypeScript SDK for the <a href="https://textwave.co.ke">TextWave</a> Bulk SMS API.
